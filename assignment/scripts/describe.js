@@ -26,10 +26,11 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we make a variable called name and set it to Dane
+// we check to see if the value of name equals to Mary
+// if it does, we want it to say Hi Mary, which it wont because name does not equal to Mary
+//We ask it to outout "How do you do?" if Mary is not the name
+//it will out put how do you do
 
 //CODE
 /*
@@ -45,10 +46,12 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we declare secret as a variable
+// we also declare code as 123
+// we ask if code is 123, then we want the variable secret to output a string value super
+//also the code is being mutiplied by two
+//we ask if code is greater than 250, for the variable secret to equal to a string of duper
+//lastly we console log secret to tell us its value
 
 //CODE
 /*
